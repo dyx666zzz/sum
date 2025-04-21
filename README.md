@@ -1,4 +1,4 @@
-#Sum function
+# Sum function
 
 This is a sum function that sums up all the numbers in an array  
 
